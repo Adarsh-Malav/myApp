@@ -1,0 +1,10 @@
+.container1{
+    background:center /cover no-repeat url("/public/hero.jpeg");
+    height: 600px;
+}
+
+.text{
+    position: absolute;
+    top: 18rem;
+    left: 55%;
+}
